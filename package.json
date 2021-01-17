@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/seanode/welcome/issues"
   },
-  "homepage": "https://github.com/seanode/welcome#readme",
+  "homepage": "https://jolee83.github.io/code-katas-slides/",
   "devDependencies": {
     "http-server": "^0.11.1"
   }
